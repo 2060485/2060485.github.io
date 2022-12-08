@@ -1,0 +1,48 @@
+header{
+    background-color: #2e2e2e;
+    margin-right: -8px;
+    margin-top: -20px;
+    margin-left: -8px;
+    text-align: center;
+}
+a{
+    color: #f9d342;
+}
+#section{
+    background: url("customer-banner.jpg") center/cover no-repeat fixed;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+}
+#section2{
+    color: black;
+    background-color: white;
+    width: 600px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+i{
+    color: #f9d342;
+}
+#service{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#section3{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+footer{
+    text-align: center;
+    background-color: #2e2e2e;
+    color: white;
+    margin-bottom: -8px;
+}
+#logo{
+    color: white; 
+    margin-right: 10px;
+}
